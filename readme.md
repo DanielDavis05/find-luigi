@@ -6,7 +6,7 @@
 
 This program is a recreation of the Wanted minigame from New Super Mario Bros for Windows. Your goal is to find and click on Luigi within 30 seconds. Should you fail, your PC won't boot anymore.
 
-[A screenshot of the software running on top of a Windows desktop.](screenshot.jpg)
+![A screenshot of the software running on top of a Windows desktop.](screenshot.jpg)
 
 ---
 
